@@ -1,0 +1,16 @@
+user
+@extends('template.base')
+@section('content')
+
+
+
+
+@endsection
+
+admin
+@extends('admin.template.base')
+@section('content')
+
+
+
+@endsection
